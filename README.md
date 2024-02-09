@@ -11,7 +11,7 @@
 
 ## About me
 Live in: Ibiuna - SP - Brazil
-Skills: Dev backend (Java) frontend (Angular, React)
+Skills: 
 
 ## Tecnhnologies I have mastery of
 
